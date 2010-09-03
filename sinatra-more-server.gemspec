@@ -2,7 +2,7 @@ SPEC = Gem::Specification.new do |s|
 
   # Get the facts.
   s.name             = "sinatra-more-server"
-  s.version          = "0.5.0"
+  s.version          = "0.5.1"
   s.description      = "Adds more server to Sinatra::Base#run! (part of BigBand)."
 
   # BigBand depedencies
